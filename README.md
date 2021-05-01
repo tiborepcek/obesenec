@@ -9,3 +9,5 @@ V súbore [slova.tsv](https://github.com/tiborepcek/obesenec/blob/main/slova.tsv
 ```
 slovo[tabulátor]krátka pomoc
 ```
+
+Tento program je napísaný v skriptovacom jazyku [AutoIt 3](https://www.autoitscript.com/) a primárne je určený pre operačný systém Windows. Funguje však cez [Wine](https://www.winehq.org/) v Linuxe aj v MacOS.
