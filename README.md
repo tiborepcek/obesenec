@@ -10,7 +10,7 @@ V súbore [slova.tsv](https://github.com/tiborepcek/obesenec/blob/main/slova.tsv
 slovo[tabulátor]krátka pomoc
 ```
 
-Najbezpečnejšie je súbor [slova.tsv](https://github.com/tiborepcek/obesenec/blob/main/slova.tsv) prepísať vlastnými slovami s krátkou pomocou, aby ostalo zachované kódovanie súboru (UTF-8 Unicode with BOM).
+Najbezpečnejšie je súbor [slova.tsv](https://github.com/tiborepcek/obesenec/blob/main/slova.tsv) prepísať vlastnými slovami s krátkou pomocou, aby ostalo zachované kódovanie súboru (UTF-8 Unicode with BOM). Na prepisovanie súboru [slova.tsv](https://github.com/tiborepcek/obesenec/blob/main/slova.tsv) odporúčam použiť textový editor [VSCodium](https://vscodium.com/#install), ktorý spustíte rovnako na Windowse, na MacOS alebo na Linuxe.
 
 Takto vyzerá grafické rozhranie programu:
 
