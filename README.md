@@ -10,6 +10,8 @@ V súbore [slova.tsv](https://github.com/tiborepcek/obesenec/blob/main/slova.tsv
 slovo[tabulátor]krátka pomoc
 ```
 
+Najbezpečnejšie je súbor [slova.tsv](https://github.com/tiborepcek/obesenec/blob/main/slova.tsv) prepísať vlastnými slovami s krátkou pomocou, aby ostalo zachované kódovanie súboru (UTF-8 Unicode with BOM).
+
 Takto vyzerá grafické rozhranie programu:
 
 ![Popis](https://github.com/tiborepcek/obesenec/blob/main/popis.png)
